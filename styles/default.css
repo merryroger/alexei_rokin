@@ -25,7 +25,7 @@ section.page {
 }
 
 header{
-	margin-bottom: 60px;
+	margin-bottom: 40px;
 	align-items: top;
 	justify-content: flex-start;
 	flex-direction: row;
@@ -71,11 +71,16 @@ a:link {
 }
 
 article.info {
-	padding: 0 0 100px 175pt;
+	padding: 0 0 25px 175pt;
 }
 
-.info p {
+.info p, .info ul {
 	margin-bottom: 12px;
 	color: #555555;
 	font: 400 12pt "PT Serif", serif;		
+}
+
+.info li {
+	margin-top: 5px;
+	margin-left: 20pt;
 }
