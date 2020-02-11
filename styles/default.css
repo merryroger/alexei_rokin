@@ -17,6 +17,14 @@ nav.menu {
 	text-align: right;
 }
 
+a:link {
+	color: #6699cc;
+}
+
+a:visited {
+	color: #bb6633;	
+}
+
 .menu a {
 	color: #999999 !important;
 	font: 400 11pt "Roboto Condensed", sans-serif;
