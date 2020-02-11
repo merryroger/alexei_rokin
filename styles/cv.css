@@ -97,3 +97,22 @@ article.info {
 .blk {
 	color: #aaaaaa; //#000000;
 }
+
+.imi, .ami {
+	width: 23px;
+	height: 23px;
+	text-align: center;
+	border-radius: 23px;
+	padding: 3px 2px 0 2px;
+	display: inline-block;
+}
+
+.imi {
+	background-color: #333333;
+	border: 1px solid #333333;
+}
+
+.ami {
+	color: #777777;
+	border: 1px solid #555555;
+}
